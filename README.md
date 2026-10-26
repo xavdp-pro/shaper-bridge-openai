@@ -16,3 +16,7 @@ and [composition](https://github.com/xavdp-pro/shaper-ecosystem/blob/main/chapte
 The human–AI tandem directs work. A cognition bridge connects that work to an
 engine; governors coordinate within jurisdiction and makers realize authorized
 host operations. An adapter is a component, not another governance hierarchy.
+
+## Dedication
+
+[Personal dedication by Xavier de Poorter](DEDICATION.md).
